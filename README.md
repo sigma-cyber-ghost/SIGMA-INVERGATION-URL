@@ -1,5 +1,3 @@
-# SIGMA-INVERGATION-URL
-
 # SIGMA-INVERGATION-URL – Black Hat Edition
 
 **By: [SIGMA CYBER GHOST](https://github.com/sigma-cyber-ghost)**
