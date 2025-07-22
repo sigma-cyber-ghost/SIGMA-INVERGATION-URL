@@ -28,7 +28,7 @@ def show_banner():
 💻 GitHub:    https://github.com/sigma-cyber-ghost
 -----------------------------------------
 '''
-    print(Fore.RED + banner)
+    print(Fore.CYAN + banner)
 
 # ======= MALWARE & IMPLANT DETECTION =======
 def detect_malware(content, url):
