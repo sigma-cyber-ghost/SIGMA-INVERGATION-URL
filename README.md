@@ -49,7 +49,7 @@ Whether it’s a phishing link, a cloaked social redirect, or a hidden .onion da
 ```bash
 git clone https://github.com/sigma-cyber-ghost/sigma-invergation-url
 cd sigma-invergation-url
-pip install -r requirements.txt
+pip3 install colorama requests bs4 python-whois ipwhois
 python3 sigma-invergation.py
 ```
 
